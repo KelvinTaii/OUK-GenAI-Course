@@ -1,9 +1,3 @@
-Got it ✅ — here’s a **complete README** that documents everything we’ve done, including setup, requirements, implementation details, and how to run the project.
-
-You can save this as `README.md` in your `OUK-GenAI-Course/week_1/` folder.
-
----
-
 # Reply Manager with BYLLM (Gemini)
 
 This project implements a **social media reply manager** using [Jaclang](https://jac-lang.org/), [BYLLM](https://byllm.ai/), and **Google Gemini** as the LLM backend.
